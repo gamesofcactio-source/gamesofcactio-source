@@ -1,5 +1,5 @@
 ## GamesOfCactio-Source
-Hello i am Cactio aka Lakshya wellcome to my github page.
+i code
 
 Fax
 * I am learning C++ and OpenGL right now.
